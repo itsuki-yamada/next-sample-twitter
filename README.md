@@ -2,10 +2,10 @@
 
 ## TODO
 
-- [ ] Docker で開発環境構築
-  - [ ] Next.js
+- [x] Docker で開発環境構築
+  - [x] Next.js
   - [x] pgsql
 - [ ] plugin
-  - [ ] jest
+  - [x] jest
   - [ ] storybook
   - [ ] cypress 
