@@ -1,6 +1,6 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 cd app
-npm run lint:prettier
-npm run lint
-npm run test
+docker-compose run app npm run lint:prettier
+docker-compose run app npm run lint
+docker-compose run app npm run test
