@@ -7,5 +7,5 @@
   - [x] pgsql
 - [ ] plugin
   - [x] jest
-  - [ ] storybook
+  - [x] storybook
   - [ ] cypress 
